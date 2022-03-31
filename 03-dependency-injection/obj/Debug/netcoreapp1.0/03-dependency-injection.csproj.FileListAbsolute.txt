@@ -1,0 +1,10 @@
+D:\git-repos\design-patterns\03-dependency-injection\bin\Debug\netcoreapp1.0\03-dependency-injection.deps.json
+D:\git-repos\design-patterns\03-dependency-injection\bin\Debug\netcoreapp1.0\03-dependency-injection.runtimeconfig.json
+D:\git-repos\design-patterns\03-dependency-injection\bin\Debug\netcoreapp1.0\03-dependency-injection.runtimeconfig.dev.json
+D:\git-repos\design-patterns\03-dependency-injection\bin\Debug\netcoreapp1.0\03-dependency-injection.dll
+D:\git-repos\design-patterns\03-dependency-injection\bin\Debug\netcoreapp1.0\03-dependency-injection.pdb
+D:\git-repos\design-patterns\03-dependency-injection\obj\Debug\netcoreapp1.0\03-dependency-injection.csprojAssemblyReference.cache
+D:\git-repos\design-patterns\03-dependency-injection\obj\Debug\netcoreapp1.0\03-dependency-injection.csproj.CoreCompileInputs.cache
+D:\git-repos\design-patterns\03-dependency-injection\obj\Debug\netcoreapp1.0\03-dependency-injection.AssemblyInfo.cs
+D:\git-repos\design-patterns\03-dependency-injection\obj\Debug\netcoreapp1.0\03-dependency-injection.dll
+D:\git-repos\design-patterns\03-dependency-injection\obj\Debug\netcoreapp1.0\03-dependency-injection.pdb
