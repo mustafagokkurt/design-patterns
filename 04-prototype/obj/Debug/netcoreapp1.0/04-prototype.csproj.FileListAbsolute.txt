@@ -1,0 +1,10 @@
+D:\git-repos\design-patterns\04-prototype\bin\Debug\netcoreapp1.0\04-prototype.deps.json
+D:\git-repos\design-patterns\04-prototype\bin\Debug\netcoreapp1.0\04-prototype.runtimeconfig.json
+D:\git-repos\design-patterns\04-prototype\bin\Debug\netcoreapp1.0\04-prototype.runtimeconfig.dev.json
+D:\git-repos\design-patterns\04-prototype\bin\Debug\netcoreapp1.0\04-prototype.dll
+D:\git-repos\design-patterns\04-prototype\bin\Debug\netcoreapp1.0\04-prototype.pdb
+D:\git-repos\design-patterns\04-prototype\obj\Debug\netcoreapp1.0\04-prototype.csprojAssemblyReference.cache
+D:\git-repos\design-patterns\04-prototype\obj\Debug\netcoreapp1.0\04-prototype.csproj.CoreCompileInputs.cache
+D:\git-repos\design-patterns\04-prototype\obj\Debug\netcoreapp1.0\04-prototype.AssemblyInfo.cs
+D:\git-repos\design-patterns\04-prototype\obj\Debug\netcoreapp1.0\04-prototype.dll
+D:\git-repos\design-patterns\04-prototype\obj\Debug\netcoreapp1.0\04-prototype.pdb
