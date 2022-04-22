@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-factory-method", "02-fac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-dependency-injection", "03-dependency-injection\03-dependency-injection.csproj", "{6ACF9D05-43AC-4481-94F3-31E0ED55AA38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-prototype", "04-prototype\04-prototype.csproj", "{D643CA8D-7828-4663-960E-B353609D6733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-prototype", "04-prototype\04-prototype.csproj", "{D643CA8D-7828-4663-960E-B353609D6733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-dependency-injection-factory-method", "05-dependency-injection-factory-method\05-dependency-injection-factory-method.csproj", "{F547D397-3BE1-4E36-A048-A3C691980C52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-dependency-injection-factory-method", "05-dependency-injection-factory-method\05-dependency-injection-factory-method.csproj", "{F547D397-3BE1-4E36-A048-A3C691980C52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-strategy", "06-strategy\06-strategy.csproj", "{4CEEE438-9CB4-48B7-8EFF-3FDFA276D278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-strategy", "06-strategy\06-strategy.csproj", "{4CEEE438-9CB4-48B7-8EFF-3FDFA276D278}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-observer", "07-observer\07-observer.csproj", "{84ED7832-1EAD-4787-99ED-A89A31002BCF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-memento", "08-memento\08-memento.csproj", "{759C3F5B-792E-44D7-A504-B4C1F1C822E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-facade", "09-facade\09-facade.csproj", "{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-facade", "09-facade\09-facade.csproj", "{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-unit-of-works", "10-unit-of-works\10-unit-of-works.csproj", "{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
