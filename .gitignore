@@ -2,8 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/
-*.cache
+.vs
 **/obj
-/08-memento/.vs/08-memento/v15
-/01-singleton/obj/Release/netcoreapp1.0
+**/bin
