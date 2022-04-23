@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-memento", "08-memento\08
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-facade", "09-facade\09-facade.csproj", "{9F60A480-DFEC-45C2-A691-7EFE9FCB0186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-unit-of-works", "10-unit-of-works\10-unit-of-works.csproj", "{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-unit-of-works", "10-unit-of-works\10-unit-of-works.csproj", "{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-decorator", "11-decorator\11-decorator.csproj", "{78429B32-6ADC-4F27-8A90-27BAC3CDD243}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9637A11C-4B7F-4CD4-BCCE-520BE4623DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78429B32-6ADC-4F27-8A90-27BAC3CDD243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78429B32-6ADC-4F27-8A90-27BAC3CDD243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78429B32-6ADC-4F27-8A90-27BAC3CDD243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78429B32-6ADC-4F27-8A90-27BAC3CDD243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
