@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-decorator", "11-decorato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-mediator", "12-mediator\12-mediator.csproj", "{EA0EEBE3-1109-4CF2-865B-83211712D7E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-front-controller", "13-front-controller\13-front-controller.csproj", "{1BB8DE3A-D019-42DC-9879-7BAC239EDAE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EA0EEBE3-1109-4CF2-865B-83211712D7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA0EEBE3-1109-4CF2-865B-83211712D7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA0EEBE3-1109-4CF2-865B-83211712D7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB8DE3A-D019-42DC-9879-7BAC239EDAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB8DE3A-D019-42DC-9879-7BAC239EDAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB8DE3A-D019-42DC-9879-7BAC239EDAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB8DE3A-D019-42DC-9879-7BAC239EDAE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
